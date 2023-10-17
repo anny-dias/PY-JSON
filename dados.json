@@ -1,0 +1,26 @@
+[
+    {
+        "altura": 1.6,
+        "codigo": 123,
+        "idade": 18,
+        "nome": "Anny Dias",
+        "notas": [
+            9,
+            7.5,
+            8,
+            10
+        ]
+    },
+    {
+        "altura": 1.7,
+        "codigo": 587,
+        "idade": 22,
+        "nome": "Julia",
+        "notas": [
+            10,
+            5,
+            8.5,
+            0
+        ]
+    }
+]
